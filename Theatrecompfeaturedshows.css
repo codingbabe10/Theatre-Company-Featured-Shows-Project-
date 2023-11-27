@@ -28,4 +28,23 @@ flex-direction: column
 
 .flexbox-item-3 {
     min-height: 200px;
+
+
+}
+
+ul{
+    margin-left: 300px;
+    text: white 
+}
+
+
+Div{
+    
+    width: 10px; height: 5px;
+    border: black 3px solid;
+    
+}
+    
+.element-selector{
+    background-color:black
 }
